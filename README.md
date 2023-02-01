@@ -8,4 +8,4 @@ My submission for Cloud DevOps Engineering Nanodegree Project 3
 
 4. Please note that I have include a screen recorded video of me adding a new employee to the app to
    verify that my submission is working. This is incase something happens to my server instances
-   before my submission has been reviewed.
+   before my submission has been reviewed...
