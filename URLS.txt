@@ -1,7 +1,0 @@
-URL1
-
-https://github.com/SepiaBeet50370/project3.git
-
-URL2
-
-http://udapeople-7c7af.s3.amazonaws.com/index.html
