@@ -42,6 +42,8 @@ Before getting started, ensure you have the following prerequisites:
 
 ## Installation
 
+For the complete step-by-step guidelines for this project, refer to this repository: https://github.com/tino50370/Guidelines-for-Auto-Deploy-Pipeline-Project.git
+
 To install and configure the auto-deploy pipeline, follow these steps:
 
 1. Clone this repository to your local machine:
@@ -51,7 +53,6 @@ To install and configure the auto-deploy pipeline, follow these steps:
 git clone https://github.com/tino50370/Auto-Deploy-pipeline.git
 
 ```
-
 
 2. Set up and configure your CI/CD tool to build and deploy your application. Refer to the documentation or README files specific to your CI/CD tool for detailed instructions.
 
