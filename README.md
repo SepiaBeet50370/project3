@@ -1,6 +1,8 @@
 # Auto-Deploy Pipeline with Monitoring and Alerting
 
-This project implements an auto-deploy pipeline with integrated monitoring and alerting capabilities. The pipeline automates the deployment process for your application, ensuring rapid and consistent deployments. The monitoring and alerting features provide real-time insights into the health and performance of your deployed application, allowing you to detect issues and take timely actions.
+This project implements an auto-deploy pipeline with integrated monitoring and alerting capabilities. The pipeline automates the deployment process for a human resources application on AWS, ensuring rapid and consistent deployments. The monitoring and alerting features provide real-time insights into the health and performance of the deployed application, allowing you to detect issues and take timely actions.
+
+The complete step-by-step guidelines on how this project was implemented can be found in the following repository: https://github.com/tino50370/Guidelines-for-Auto-Deploy-Pipeline-Project.git
 
 ## Table of Contents
 
